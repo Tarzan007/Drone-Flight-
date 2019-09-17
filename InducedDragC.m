@@ -1,4 +1,3 @@
-%13952         5A-Induced Drag Coefficient Function       Anna Albert
 function[IDC]=InducedDragC(b, W, S, rho, V)
 %Inputs:
 %b = WingSpan
