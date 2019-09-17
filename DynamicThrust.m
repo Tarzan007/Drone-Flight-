@@ -1,4 +1,3 @@
-% Rachel Johnson Dynamic Trust Function
 % Function for theoretical propeller dynamic thrust calculation
 function [Thrust]=DynamicThrust(RPM,pitch,diameter,V, rho)% all the inputs are from the propeller
 %% I broke up the large equation into sections
