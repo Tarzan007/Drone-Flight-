@@ -1,5 +1,3 @@
-%13952  Team 10 4/3/2019
-
 %The purpose of this program will be to calculate the aerodynamic drag and 
 %dynamic thrust of our prototype design when given the geometrics inputs. 
 %This program will plot the thrust and drag functions as well as deliver
