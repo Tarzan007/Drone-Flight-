@@ -1,4 +1,3 @@
-%Shalom Dukhande
 %function for zero lift drag coefficient
 function[zerodragCoefficient]=ZeroLiftDrag(wetareaFuselage,wetareaVertTail,wetareaHorTail,wetareaWing,theoWingArea,diameterBody,lengthBody,wingThickness,verttailThick,hortailThick,avgwingChord,avgverttailChord,avghortailChord)
 
