@@ -1,4 +1,3 @@
-%Juliana Ruiter
 %Range Equation
 function [Range] = RangeEquation(MBatt, DroneMass, Drag, DroneWeight)
 E = .36; %MJ/kg  This is the battery specific energy assuming the prototype battery provided
