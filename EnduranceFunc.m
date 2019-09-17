@@ -1,4 +1,3 @@
-%13952   Endurance Function   Jenna Cay
 function[endurance]=EnduranceFunc(D,V)
 %E is the energy available from the battery, which is found my multiplying the amps by
 %the voltage 
